@@ -2,7 +2,6 @@ body{
     font-family: 'Oswald', sans-serif;
     margin: 0px;
 }
-
 h1{
     font-size: 55px;
     color: rgb(85, 81, 81);
@@ -18,10 +17,7 @@ h1{
     background-image: linear-gradient(red, blue);
     border-radius: 50px 50px 50px 50px;
     color: white;
-    text-align: center;
-    
- 
-    
+    text-align: center; 
 }
 #fimg{
     width: 24%; 
@@ -55,7 +51,7 @@ h1{
 }
 .second-top{
     display:flex;
-    margin-bottom: 100px;
+    margin-bottom: 40px;
 }
 .order-food{
     text-decoration: none;
@@ -71,4 +67,21 @@ h1{
 }
 .half img{
     width: 70%;
+}
+.about-me{
+    display:flex;
+    margin-bottom: 50px;  
+}
+#michelle{
+    width: 50%;
+    padding-left: 100px; 
+    padding-top: 50px; 
+    padding-bottom: none;
+}
+#michellep{
+    padding-bottom: 60px;
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
 }
