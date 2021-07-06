@@ -70,20 +70,17 @@ h1{
 }
 .about-me{
     display:flex;
-    margin-bottom: 50px;  
+    margin-bottom: 50px; 
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat; 
 }
 #michelle{
     width: 50%;
     padding-left: 100px; 
     padding-top: 50px; 
-    padding-bottom: none;
 }
 #michellep{
     padding-bottom: 60px;
-}
-.about-me{
-    background-image: url(images/shapes/7.png);
-    background-repeat: no-repeat;
 }
 #myrechone{
     text-align: center; 
