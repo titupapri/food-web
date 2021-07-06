@@ -85,3 +85,71 @@ h1{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
 }
+#myrechone{
+    text-align: center; 
+    margin-bottom: 5px;   
+}
+#myrecp{
+    text-align: center; 
+}
+.myrec{
+    display:flex; 
+}
+#myrecf{
+    width: 90%; 
+    padding: 10px 10px;
+    border-radius: 20px; 
+}
+#dif{
+    text-align: left;
+    padding: 10px 10px;
+    width: 90%;
+}
+.dif{
+    box-shadow: 10px 10px 10px 10px grey; 
+    padding: 10px 10px;
+    border-radius: 20px;
+    border-left: 8px solid;
+    border-image: linear-gradient( red, blue); 
+    width: 25%;
+    margin-right: 5%;
+    margin-left: 4%;
+
+}
+#myrecs{
+    width: 90%; 
+    padding: 10px 10px;
+    border-radius: 20px; 
+}
+#dis{
+    text-align: left;
+    padding: 10px 10px;
+    width: 90%;
+}
+.dis{
+    box-shadow: 10px 10px 10px 10px grey; 
+    padding: 10px 10px;
+    border-radius: 20px;
+    border-left: 8px solid;
+    border-image: linear-gradient( red, blue); 
+    width: 25%;
+    margin-right: 5%;
+}
+#myrect{
+    width: 90%; 
+    padding: 10px 10px;
+    border-radius: 20px;  
+}
+#dit{
+    text-align: left;
+    padding: 10px 10px;
+    width: 90%;
+}
+.dit{
+    box-shadow: 10px 10px 10px 10px grey; 
+    padding: 10px 10px;
+    border-radius: 20px;
+    border-left: 8px solid;
+    border-image: linear-gradient( red, blue); 
+    width: 25%;
+}
